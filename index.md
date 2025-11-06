@@ -5,9 +5,9 @@ Brendan Kuang
 
 1. The most interesting topic I've covered in my domain this quarter is the actual method by which functional accelerators are implemented on the hardware level. The tradeoff is that accelerators consume FPGA fabrice, and thus there is typically an inverse relationship between specificity and speed.
 
-> **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
+> **Describe a potential investigation you would like to pursue for your Quarter 2 Project?**
 
-2. One potential avenue that I've considered after implementing an LMUL Algorithm on the software level to verify its accuracy on an MLP neural network simple recognition test is to emulate LMUL on more types of neural networks (e.g LSTM, Transformer) to test its breadth of application. We could also investigate on how LMUL operates on more subjective and less deterministic tasks rather than class recognition.
+2. One potential avenue that I've considered after implementing an LMUL Algorithm on the software level to verify its accuracy on an MLP neural network simple recognition test is to emulate LMUL on more types of neural networks (e.g LSTM, Transformer) to test its breadth of application. We could also investigate how LMUL operates on more subjective and less deterministic tasks rather than class recognition.
 
 > **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
 
