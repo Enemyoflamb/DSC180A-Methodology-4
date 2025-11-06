@@ -1,5 +1,6 @@
 Brendan Kuang
 [blkuang@ucsd.edu](blkuang@ucsd.edu)
+Nov 2025
 
 > **What is the most interesting topic covered in your domain this quarter?**
 
