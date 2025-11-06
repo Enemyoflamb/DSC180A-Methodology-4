@@ -1,5 +1,5 @@
 Brendan Kuang
-blkuang@ucsd.edu
+[blkuang@ucsd.edu](blkuang@ucsd.edu)
 
 > **What is the most interesting topic covered in your domain this quarter?**
 
